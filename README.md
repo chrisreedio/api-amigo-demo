@@ -1,5 +1,7 @@
 # API Quota Management and Analytics
 
+![api-amigo-logo-bg-tiny](https://github.com/chrisreedio/api-amigo-demo/assets/77644584/c1be7c60-2b6f-4e0a-ac88-a12082da498c)
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/chrisreedio/api-amigo.svg?style=flat-square)](https://packagist.org/packages/chrisreedio/api-amigo)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/chrisreedio/api-amigo/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/chrisreedio/api-amigo/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/chrisreedio/api-amigo/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/chrisreedio/api-amigo/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
