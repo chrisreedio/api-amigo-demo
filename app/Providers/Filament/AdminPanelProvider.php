@@ -26,6 +26,10 @@ class AdminPanelProvider extends PanelProvider
             ->default()
             ->id('admin')
             ->path('admin')
+            ->brandName('API Amigo Demo')
+            //TODO: Change the light mode logo
+            ->brandLogo(asset('images/api-amigo-logo-text.png'))
+            ->darkModeBrandLogo(asset('images/api-amigo-logo-text.png'))
             ->login()
             ->colors([
                 'primary' => Color::Amber,
